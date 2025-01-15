@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(107, 107, 241);
+    font: 15pt Arial;
+  
+  }
+  
+  header{
+    color: white;
+    text-align: center;
+  }
+  
+  section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.336) 3px 3px 10px;
+  }
+  
+  footer{
+    color: white;
+    text-align: center;
+  }
+  
+  #imagemManha{
+    height: 300px;
+    width: 307px;
+    border-radius: 50%;
+  }
+  
+  div{
+    text-align: center;
+    padding: 10px;
+  }
